@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshara Srivastava</h1>
 <h3 align="center">Front-End Developer and Machine Learnign Enthusiast</h3>
 
-- 🔭 I’m currently SIGN-MOVEMENT TO SPEECH CONVERTOR **VOICEE**
+- 🔭 I’m currently working om a project  SIGN-MOVEMENT TO SPEECH CONVERTOR  called **VOICEE**
 
 - 🌱 I’m currently learning **Machine Learning core Algorithims and Natural Language Processing**
 
