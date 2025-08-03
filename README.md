@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning core Algorithims and Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://netflix-portfolio-topaz.vercel.app/](https://netflix-portfolio-topaz.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://netflix-portfolio-topaz.vercel.app/](https://netflix-portfolio-ay4h.vercel.app/)
 
 - 📝 I regularly write articles on [my secret diary](my secret diary)
 
