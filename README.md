@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://netflix-portfolio-topaz.vercel.app/](https://netflix-portfolio-ay4h.vercel.app/)
 
-- 📝 I regularly write articles on [my secret diary](my secret diary)
+- 📝 I regularly write articles on medium
 
 - 💬 Ask me about **HTML , CSS, JS,TAILWIND CSS,REACT,EDA,FEATURE SCALLING,ML ALGORITHIMS,TRANSFORMERS**
 
