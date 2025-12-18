@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working om a project  SIGN-MOVEMENT TO SPEECH CONVERTOR  called **VOICEE**
 
-- 🌱 I’m currently learning **Machine Learning core Algorithims and Natural Language Processing**
+- 🌱 I’m currently learning **MLOPS**
 
 - 👨‍💻 All of my projects are available at [https://netflix-portfolio-topaz.vercel.app/](https://netflix-portfolio-ay4h.vercel.app/)
 
-- 📝 I regularly write articles on medium
+- 📝 I regularly write articles on the topics that intrigues me
 
 - 💬 Ask me about **HTML , CSS, JS,TAILWIND CSS,REACT,EDA,FEATURE SCALLING,ML ALGORITHIMS,TRANSFORMERS**
 
