@@ -66,22 +66,6 @@ const akshara = {
 
 ---
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎯 Expertise Areas
 
 <div align="center">
@@ -97,18 +81,6 @@ const akshara = {
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on interesting projects or discuss tech!
-
-**Feel free to reach out:**
-
-📧 **Email:** akshara12082005@gmail.com  
-🌐 **Portfolio:** [View My Work](https://netflix-portfolio-ay4h.vercel.app/)
-
----
 
 ### 💭 Quote of the Day
 
