@@ -66,21 +66,6 @@ const akshara = {
 
 ---
 
-## 🎨 Featured Project
-
-<div align="center">
-
-### 🎙️ VOICEE - Sign Movement to Speech Converter
-
-*Bridging communication gaps through AI*
-
-A cutting-edge project that converts sign language movements into speech, making communication more accessible for everyone.
-
-**Tech Stack:** Machine Learning • Computer Vision • Transformers • Real-time Processing
-
-[![View Project](https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</div>
 
 ---
 
