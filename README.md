@@ -1,21 +1,143 @@
-<h1 align="center">Hi 👋, I'm Akshara Srivastava</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  
+# 👋 Hi, I'm Akshara Srivastava
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netflix-portfolio-ay4h.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara12082005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 </div>
 
-- 🔭 I’m currently working om a project  SIGN-MOVEMENT TO SPEECH CONVERTOR  called **VOICEE**
+---
 
-- 🌱 I’m currently learning **MLOPS**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://netflix-portfolio-topaz.vercel.app/](https://netflix-portfolio-ay4h.vercel.app/)
+```javascript
+const akshara = {
+    currentProject: "VOICEE - Sign Movement to Speech Converter",
+    learning: ["MLOps", "Advanced ML Algorithms"],
+    interests: ["Web Development", "Machine Learning", "AI"],
+    funFact: "I like to sing when I'm alone 🎤✨",
+    askMeAbout: ["Frontend Development", "Machine Learning", "Data Science"]
+};
+```
 
-- 📝 I regularly write articles on the topics that intrigues me
+<div align="center">
 
-- 💬 Ask me about **HTML , CSS, JS,TAILWIND CSS,REACT,EDA,FEATURE SCALLING,ML ALGORITHIMS,TRANSFORMERS**
+### 🎯 Current Focus
 
-- 📫 How to reach me **akshara12082005@gmail.com**
+</div>
 
-- ⚡ Fun fact **I like to Sing when I am alone**
+```diff
++ 🔭 Building VOICEE - An innovative Sign Movement to Speech Converter
++ 🌱 Diving deep into MLOps and deployment strategies
++ 📝 Writing articles about topics that spark my curiosity
++ 💡 Exploring the intersection of AI and accessibility
+```
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🎨 Featured Project
+
+<div align="center">
+
+### 🎙️ VOICEE - Sign Movement to Speech Converter
+
+*Bridging communication gaps through AI*
+
+A cutting-edge project that converts sign language movements into speech, making communication more accessible for everyone.
+
+**Tech Stack:** Machine Learning • Computer Vision • Transformers • Real-time Processing
+
+[![View Project](https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Expertise Areas
+
+<div align="center">
+
+| 💻 Frontend | 🧠 Machine Learning | 📊 Data Science |
+|------------|-------------------|----------------|
+| HTML/CSS/JS | ML Algorithms | EDA |
+| React.js | Transformers | Feature Scaling |
+| Tailwind CSS | Model Training | Data Visualization |
+| Responsive Design | MLOps | Statistical Analysis |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects or discuss tech!
+
+**Feel free to reach out:**
+
+📧 **Email:** akshara12082005@gmail.com  
+🌐 **Portfolio:** [View My Work](https://netflix-portfolio-ay4h.vercel.app/)
+
+---
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
+
+**Thanks for visiting! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=8B5CF6&style=for-the-badge)
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
