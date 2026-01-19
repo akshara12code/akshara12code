@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Akshara Srivastava
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Aspiring+Data+Scientist+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netflix-portfolio-ay4h.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara12082005@gmail.com)
