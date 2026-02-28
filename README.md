@@ -19,7 +19,6 @@ const akshara = {
     currentProject: "VOICEE - Sign Movement to Speech Converter",
     learning: ["MLOps", "Advanced ML Algorithms"],
     interests: ["Web Development", "Machine Learning", "AI"],
-    funFact: "I like to sing when I'm alone 🎤✨",
     askMeAbout: ["Frontend Development", "Machine Learning", "Data Science"]
 };
 ```
