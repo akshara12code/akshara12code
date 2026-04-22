@@ -90,7 +90,7 @@ const akshara = {
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 <p align="left">
   <a href="https://appwrite.io"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40"/></a>
